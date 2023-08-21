@@ -1,0 +1,97 @@
+Comment,Sentiment,CategoryID,Timestamp,UserID,Location,SubmissionID,Categories,First Name,Last Name,Email
+"""I love this product!""", Positive,0, 2023-06-15 09:23:14, @user123, New York,1,General Comments,James,Gearheart,J.Gearheart81@yahoo.com
+"""The service was terrible.""", Negative,1, 2023-06-15 11:45:32, user456, Los Angeles,2,User Experience Comments,Katy,Marsh,K.Marsh90@gmail.com
+"""This movie is amazing!""", Positive,2, 2023-06-15 14:10:22, moviefan789, London,3,Algebra,Thea,Blanco,T.Blanco26@yahoo.com
+"""I'm so disappointed with their customer support.""", Negative,3, 2023-06-15 17:35:11, forumuser1, Toronto,4,English,Florence,Oliver,F.Oliver82@yahoo.com
+"""Just had the best meal of my life!""", Positive,4, 2023-06-16 08:50:59, foodie22, Paris,5,Chemistry,Mike,Luhman,M.Luhman13@outlook.com
+"""The quality of this product is subpar.""", Negative,5, 2023-06-16 10:15:27, shopper123, San Francisco,6,Biology,John,Smith,J.Smith50@yahoo.com
+"""I can't stop listening to this song. It's incredible!""", Positive,6, 2023-06-16 13:40:18, musiclover456, Berlin,7,Computer Science,Elizabeth,Titus,E.Titus51@outlook.com
+"""Their website is so user-friendly. Love it!""", Positive,7, 2023-06-16 16:05:36, testimonialuser1, Sydney,8,Writing,Ethel,Trombetta,E.Trombetta50@outlook.com
+"""I loved the movie! It was fantastic!""", Positive,2, 2023-07-02 09:12:34, user123, New York,9,Algebra,Louise,Shook,L.Shook88@outlook.com
+"""The customer service was terrible.""", Negative,1, 2023-07-02 10:45:21, user456, Los Angeles,10,User Experience Comments,Katy,Marsh,K.Marsh90@gmail.com
+"""This book made me feel inspired. Highly recommended!""", Positive,8, 2023-07-02 12:34:56, bookworm789, London,11,Statistics,Benjamin,Pittman,B.Pittman78@yahoo.com
+"""I'm extremely disappointed with their product quality.""", Negative,9, 2023-07-02 15:21:43, shopper789, San Francisco,12,Geometry,Norman,Cota,N.Cota79@outlook.com
+"""Just had the most amazing vacation! I can't wait to go back.""", Positive,4, 2023-07-02 18:01:23, travelenthusiast1, Sydney,13,Chemistry,Edith,Cervantes,E.Cervantes14@gmail.com
+"""The food at this restaurant was awful. Never going back again!""", Negative,10, 2023-07-02 20:45:37, foodlover123, Mumbai,14,Calculus,Joseph,Shaw,J.Shaw9@outlook.com
+"""I can't stop listening to this song. It's my new favorite!""", Positive,6, 2023-07-03 09:17:52, musiclover789, Berlin,15,Computer Science,Timothy,Yazzie,T.Yazzie20@outlook.com
+"""Their website is so confusing and poorly designed.""", Negative,11, 2023-07-03 11:59:18, user789, Toronto,16,Physics,Thomas,Cruz,T.Cruz49@outlook.com
+"""I had an incredible experience at the theme park. So much fun!""", Positive,12, 2023-07-03 14:40:05, thrillseeker1, Orlando,17,History,Carl,Roseberry,C.Roseberry98@outlook.com
+"""The product arrived damaged. Very disappointed.""", Negative,9, 2023-07-03 17:25:09, buyer123, Chicago,18,Geometry,Melina,Hodges,M.Hodges89@gmail.com
+"""The concert was absolutely breathtaking. Best performance ever!""", Positive,13, 2023-07-03 20:15:33, musicfan456, Paris,19,Reading,Anthony,Hale,A.Hale25@outlook.com
+"""I had a terrible experience with their customer support.""", Negative,14, 2023-07-04 08:32:41, user1234, Sydney,20,Economics,Bruno,Perry,B.Perry36@gmail.com
+"""This movie is a masterpiece! I was blown away.""", Positive,2, 2023-07-04 14:05:27, cinephile789, Los Angeles,21,Algebra,Jamie,Griffin,J.Griffin39@yahoo.com
+"""The customer service at this store is top-notch.""", Positive,1, 2023-07-04 16:35:19, shopper456, New York,22,User Experience Comments,Michael,Arnold,M.Arnold33@gmail.com
+"""I'm disappointed with the ending of this book. It fell flat.""", Negative,8, 2023-07-04 19:18:53, booklover123, London,23,Statistics,Elizabeth,Harris,E.Harris57@yahoo.com
+"""The product I received was damaged. Unacceptable.""", Negative,9, 2023-07-04 21:52:41, buyer789, San Francisco,24,Geometry,Wilbur,Powell,W.Powell36@gmail.com
+"""Just had the worst flight experience. Delayed and rude staff.""", Negative,15, 2023-07-05 09:10:15, traveler456, Sydney,25,AP Maths,Bobbie,Collier,B.Collier37@yahoo.com
+"""The hotel stay was absolutely amazing! Luxury at its finest.""", Positive,4, 2023-07-05 12:30:08, traveladdict1, Paris,26,Chemistry,Darrin,Mckenzie,D.Mckenzie31@gmail.com
+"""The food at this restaurant was outstanding. Highly recommended!""", Positive,10, 2023-07-05 15:45:32, foodie789, Mumbai,27,Calculus,Ronald,Burriss,R.Burriss39@gmail.com
+"""This playlist is my go-to for workouts. Energizing and motivating!""", Positive,6, 2023-07-05 18:20:17, gymrat123, Berlin,28,Computer Science,Kenneth,Duggan,K.Duggan67@yahoo.com
+"""I had a frustrating experience navigating through their website.""", Negative,11, 2023-07-05 21:05:44, user987, Toronto,29,Physics,Glenda,Wilson,G.Wilson42@gmail.com
+"""The roller coaster ride was thrilling! Heart-pounding excitement!""", Positive,16, 2023-07-06 08:48:39, thrillseeker2, Orlando,30,AP Sciences,Eddie,Mason,E.Mason0@outlook.com
+"""The product I ordered never arrived. Terrible service.""", Negative,9, 2023-07-06 11:25:56, customer123, Chicago,31,Geometry,Cody,Adkins,C.Adkins6@gmail.com
+"""I can't get enough of this band. Their music is incredible!""", Positive,17, 2023-07-06 14:15:23, musiclover987, London,32,AP English,Peter,Heavrin,P.Heavrin73@gmail.com
+"""I had a great chat with their customer support. Helpful and friendly.""", Positive,14, 2023-07-06 17:02:11, user7890, Sydney,33,Economics,Lorri,Pitcock,L.Pitcock28@yahoo.com
+"""This restaurant has the most delicious food. I can't wait to go back!""", Positive,4, 2023-07-09 09:12:54, foodie123, Paris,34,Chemistry,Lisa,Kessler,L.Kessler44@yahoo.com
+"""The product I purchased broke within a week. Poor quality.""", Negative,9, 2023-07-09 11:45:32, shopper246, Los Angeles,35,Geometry,James,Dreyer,J.Dreyer16@yahoo.com
+"""This book is thought-provoking and beautifully written. Highly recommended!""", Positive,8, 2023-07-09 14:23:18, bookworm567, London,36,Statistics,Andrew,Getz,A.Getz73@outlook.com
+"""The customer service at this store is exceptional. They went above and beyond.""", Positive,18, 2023-07-09 17:05:46, shopper7890, New York,37,Spanish,Alice,Bielecki,A.Bielecki86@gmail.com
+"""I had a terrible experience with their technical support. No resolution.""", Negative,19, 2023-07-09 19:40:27, user9876, San Francisco,38,French,Rose,Leone,R.Leone24@yahoo.com
+"""The live concert was electrifying! The band's energy was contagious.""", Positive,13, 2023-07-10 08:50:13, musiclover7890, Sydney,39,Reading,Isabel,Vidales,I.Vidales63@gmail.com
+"""I'm disappointed with the food at this restaurant. It was tasteless.""", Negative,10, 2023-07-10 11:32:59, foodcritic123, Mumbai,40,Calculus,Carolyn,Deshotel,C.Deshotel17@gmail.com
+"""This song always puts me in a good mood. It's my go-to feel-good track!""", Positive,6, 2023-07-10 14:20:05, playlistlover456, Berlin,41,Computer Science,Norma,Walker,N.Walker13@yahoo.com
+"""The website is slow and unresponsive. Difficult to navigate.""", Negative,11, 2023-07-10 17:15:22, user24680, Toronto,42,Physics,Ladonna,Perez,L.Perez52@yahoo.com
+"""The roller coaster ride was exhilarating! Pure adrenaline rush!""", Positive,16, 2023-07-10 20:02:37, thrillseeker789, Orlando,43,AP Sciences,Larry,Young,L.Young23@gmail.com
+"""The product I ordered arrived damaged. Very disappointed with the packaging.""", Negative,9, 2023-07-11 08:40:51, buyer7890, Chicago,44,Geometry,Bianca,Rothrock,B.Rothrock0@yahoo.com
+"""I'm captivated by this band's unique sound. They're a breath of fresh air!""", Positive,17, 2023-07-11 11:22:17, musicfan567, London,45,AP English,Kathleen,Salvador,K.Salvador74@outlook.com
+"""The customer support was quick to respond and resolved my issue. Impressed!""", Positive,14, 2023-07-11 14:18:42, user123456, Sydney,46,Economics,Iva,Harmon,I.Harmon51@gmail.com
+"""This restaurant has the best food. I highly recommend it!""", Positive,1, 2023-07-11 17:30:15, foodie246, Los Angeles,47,User Experience Comments,Lawrence,Simon,L.Simon21@gmail.com
+"""The plot of this movie is confusing and hard to follow.""", Negative,2, 2023-07-11 20:15:42, moviegoer789, London,48,Algebra,Glenda,Loggins,G.Loggins65@outlook.com
+"""I'm addicted to this game. It's so much fun!""", Positive,20, 2023-07-12 09:05:59, gamer123, New York,49,Germen,Agatha,Scott,A.Scott14@yahoo.com
+"""The customer service at this hotel was terrible. Avoid at all costs.""", Negative,21, 2023-07-12 11:45:27, traveler246, Paris,50,Chinese,Darrell,Davis,D.Davis15@yahoo.com
+"""This book bored me to tears. I couldn't finish it.""", Negative,8, 2023-07-12 14:30:18, bookworm246, San Francisco,51,Statistics,Kay,Vaughn,K.Vaughn91@yahoo.com
+"""I'm impressed with the sound quality of these headphones. Excellent!""", Positive,9, 2023-07-12 17:10:36, audiophile789, Berlin,52,Geometry,Lindsey,Bowman,L.Bowman70@outlook.com
+"""The website design is sleek and user-friendly. Easy to navigate.""", Positive,7, 2023-07-13 08:50:59, testimonialuser2, Sydney,53,Writing,Philip,Dooley,P.Dooley30@gmail.com
+"""I had a terrible experience with their delivery service. Late and unprofessional.""", Negative,9, 2023-07-13 11:25:27, shopper4567, Chicago,54,Geometry,Rachel,Acker,R.Acker1@gmail.com
+"""The concert was mind-blowing! The band knows how to put on a show.""", Positive,13, 2023-07-13 14:05:42, musiclover1234, Paris,55,Reading,Berniece,Woodhouse,B.Woodhouse43@gmail.com
+"""I'm extremely disappointed with the customer support. No resolution.""", Negative,14, 2023-07-13 16:35:19, user98765, Toronto,56,Economics,Rebekah,Carrillo,R.Carrillo83@yahoo.com
+"""The hotel staff were rude and unprofessional. Terrible customer service.""", Negative,22, 2023-07-17 08:50:13, traveler789, Paris,57,Arabic,Paula,May,P.May47@gmail.com
+"""The food at this restaurant was mediocre. Nothing special.""", Negative,10, 2023-07-17 11:32:59, foodlover2468, Mumbai,58,Calculus,Audrey,Collins,A.Collins80@outlook.com
+"""This song always puts me in a nostalgic mood. It reminds me of good times.""", Positive,6, 2023-07-17 14:20:05, nostalgiacat123, Berlin,59,Computer Science,James,Wilcox,J.Wilcox80@gmail.com
+"""The website loading speed is frustratingly slow. Needs improvement.""", Negative,11, 2023-07-17 17:15:22, user12345, Toronto,60,Physics,Edward,Spasiano,E.Spasiano32@yahoo.com
+"""The food at this cafe exceeded my expectations. Absolutely delicious!""", Positive,23, 2023-07-13 19:18:53, foodlover246, Mumbai,61,Geography,Peggy,Murrah,P.Murrah14@yahoo.com
+"""I'm disappointed with the ending of this TV show. It left too many unanswered questions.""", Negative,24, 2023-07-14 08:32:41, tvfan123, Los Angeles,62,Pre-Calc,William,Martin,W.Martin45@yahoo.com
+"""This album is a masterpiece. Every song is a work of art!""", Positive,17, 2023-07-14 11:05:27, musicenthusiast1, London,63,AP English,Dorothy,Brownlee,D.Brownlee55@yahoo.com
+"""The website layout is cluttered and confusing. Difficult to find information.""", Negative,11, 2023-07-14 14:40:05, user2468, Sydney,64,Physics,Arnold,Smith,A.Smith10@gmail.com
+"""The roller coaster at this theme park is a thrilling experience. A must-try!""", Positive,16, 2023-07-14 17:25:09, thrillseeker3, Orlando,65,AP Sciences,Terrence,Maeder,T.Maeder27@yahoo.com
+"""The product I ordered never arrived. Poor customer service.""", Negative,9, 2023-07-15 08:50:13, buyer1234, Chicago,66,Geometry,Jack,Curtis,J.Curtis77@gmail.com
+"""I'm in awe of this artist's talent. Their paintings are breathtaking!""", Positive,25, 2023-07-15 12:30:08, artlover123, Paris,67,Philosophy,George,Choquette,G.Choquette41@outlook.com
+"""The food at this restaurant was disappointing. Not worth the price.""", Negative,10, 2023-07-15 15:45:32, foodcritic246, Mumbai,68,Calculus,Annie,Robinson,A.Robinson38@gmail.com
+"""This playlist is perfect for relaxation. Soothing and calming!""", Positive,6, 2023-07-15 18:20:17, relaxmusiclover, Berlin,69,Computer Science,Kathryn,Pogue,K.Pogue33@gmail.com
+"""The website navigation is smooth and intuitive. I found what I needed quickly.""", Positive,7, 2023-07-15 21:05:44, happyuser123, Toronto,70,Writing,Jordan,Gonzalas,J.Gonzalas57@yahoo.com
+"""The ride on this cruise ship was an unforgettable experience. I loved every moment!""", Positive,26, 2023-07-16 09:12:54, travelenthusiast2, Sydney,71,Music,Robert,Morgan,R.Morgan4@outlook.com
+"""The product I received was of poor quality. It broke after a few uses.""", Negative,9, 2023-07-16 11:45:32, shopper567, Los Angeles,72,Geometry,Thomas,Sipe,T.Sipe88@outlook.com
+"""This book kept me hooked from start to finish. A captivating read!""", Positive,8, 2023-07-16 14:23:18, bookworm7890, London,73,Statistics,Patricia,Shade,P.Shade59@outlook.com
+"""The customer service at this store is outstanding. They truly care about their customers.""", Positive,18, 2023-07-16 17:05:46, happyshopper1, New York,74,Spanish,Lisa,Agnello,L.Agnello9@yahoo.com
+"""I had a frustrating experience with their technical support. No resolution provided.""", Negative,19, 2023-07-16 19:40:27, user98765, San Francisco,75,French,Rebekah,Carrillo,R.Carrillo83@yahoo.com
+"""The hotel staff were rude and unprofessional. Terrible customer service.""", Negative,22, 2023-07-17 08:50:13, traveler789, Paris,76,Arabic,Paula,May,P.May47@gmail.com
+"""The food at this restaurant was mediocre. Nothing special.""", Negative,10, 2023-07-17 11:32:59, foodlover2468, Mumbai,77,Calculus,Audrey,Collins,A.Collins80@outlook.com
+"""This song always puts me in a nostalgic mood. It reminds me of good times.""", Positive,6, 2023-07-17 14:20:05, nostalgiacat123, Berlin,78,Computer Science,James,Wilcox,J.Wilcox80@gmail.com
+"""The website loading speed is frustratingly slow. Needs improvement.""", Negative,11, 2023-07-17 17:15:22, user12345, Toronto,79,Physics,Edward,Spasiano,E.Spasiano32@yahoo.com
+"""I love this product!""", Positive,0, 2023-06-15 09:23:14, @user123, New York,80,General Comments,James,Gearheart,J.Gearheart81@yahoo.com
+"""The service was terrible.""", Negative,1, 2023-06-15 11:45:32, user456, Los Angeles,81,User Experience Comments,Katy,Marsh,K.Marsh90@gmail.com
+"""This movie is amazing!""", Positive,2, 2023-06-15 14:10:22, moviefan789, London,82,Algebra,Thea,Blanco,T.Blanco26@yahoo.com
+"""I'm so disappointed with their customer support.""", Negative,3, 2023-06-15 17:35:11, forumuser1, Toronto,83,English,Florence,Oliver,F.Oliver82@yahoo.com
+"""Just had the best meal of my life!""", Positive,4, 2023-06-16 08:50:59, foodie22, Paris,84,Chemistry,Mike,Luhman,M.Luhman13@outlook.com
+"""The quality of this product is subpar.""", Negative,5, 2023-06-16 10:15:27, shopper123, San Francisco,85,Biology,John,Smith,J.Smith50@yahoo.com
+"""I can't stop listening to this song. It's incredible!""", Positive,6, 2023-06-16 13:40:18, musiclover456, Berlin,86,Computer Science,Elizabeth,Titus,E.Titus51@outlook.com
+"""Their website is so user-friendly. Love it!""", Positive,7, 2023-06-16 16:05:36, testimonialuser1, Sydney,87,Writing,Ethel,Trombetta,E.Trombetta50@outlook.com
+"""I loved the movie! It was fantastic!""", Positive,2, 2023-07-02 09:12:34, user123, New York,88,Algebra,Louise,Shook,L.Shook88@outlook.com
+"""The customer service was terrible.""", Negative,1, 2023-07-02 10:45:21, user456, Los Angeles,89,User Experience Comments,Katy,Marsh,K.Marsh90@gmail.com
+"""This book made me feel inspired. Highly recommended!""", Positive,8, 2023-07-02 12:34:56, bookworm789, London,90,Statistics,Benjamin,Pittman,B.Pittman78@yahoo.com
+"""I'm extremely disappointed with their product quality.""", Negative,9, 2023-07-02 15:21:43, shopper789, San Francisco,91,Geometry,Norman,Cota,N.Cota79@outlook.com
+"""Just had the most amazing vacation! I can't wait to go back.""", Positive,4, 2023-07-02 18:01:23, travelenthusiast1, Sydney,92,Chemistry,Edith,Cervantes,E.Cervantes14@gmail.com
+"""The food at this restaurant was awful. Never going back again!""", Negative,10, 2023-07-02 20:45:37, foodlover123, Mumbai,93,Calculus,Joseph,Shaw,J.Shaw9@outlook.com
+"""I can't stop listening to this song. It's my new favorite!""", Positive,6, 2023-07-03 09:17:52, musiclover789, Berlin,94,Computer Science,Timothy,Yazzie,T.Yazzie20@outlook.com
+"""Their website is so confusing and poorly designed.""", Negative,11, 2023-07-03 11:59:18, user789, Toronto,95,Physics,Thomas,Cruz,T.Cruz49@outlook.com
+"""I had an incredible experience at the theme park. So much fun!""", Positive,12, 2023-07-03 14:40:05, thrillseeker1, Orlando,96,History,Carl,Roseberry,C.Roseberry98@outlook.com
