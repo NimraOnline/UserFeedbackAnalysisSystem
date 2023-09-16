@@ -15,7 +15,7 @@ EduTech is an innovative educational application that offers a variety of online
 
 >Engagement Optimization: Keeping users engaged is crucial for the success of any app. EduTech's third goal is to optimize user engagement by understanding the factors that contribute to positive user experiences, as well as identifying patterns that lead to disengagement.
 
-### View the [PDF](https://github.com/NimraOnline/UserFeedbackAnalysisSystem/blob/main/Data%20Engineering%20%26%20Analysis%20Project.pdf) to see the project plan, and implementation!
+### View the [PDF](https://github.com/NimraOnline/UserFeedbackAnalysisSystem/blob/main/Data%20Engineering%20%26%20Analysis%20Project.pdf) to see the project plan and implementation!
 
 Technologies used:
 - MySQL
