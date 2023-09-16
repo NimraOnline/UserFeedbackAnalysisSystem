@@ -14,6 +14,7 @@ Technologies used:
 - Object Oriented Programming
 - Data Cleaning and Pre-processing
 - Tableau
+- Lucid App
 - Data Analysis
   
 
